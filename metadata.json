@@ -1,0 +1,8 @@
+{
+  "name": "永春陂地質調查 ",
+  "description": "一個結合戶外教學與地質知識的實境解謎遊戲。探索台北永春陂，利用 AI 重現百年陂塘、軍營遺跡與地質奧秘。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
